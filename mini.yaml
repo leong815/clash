@@ -3,7 +3,7 @@
 proxy-providers:
   kuaishouyun:
     type: http
-    url: "https://dy.kuaishouyunvpn.icu/ts/open/sub/web/index?token=00ba3f8d50e50281b2d9b82b1d4dac41"
+    url: "  "
     interval: 86400
     health-check:
       enable: true
@@ -12,7 +12,7 @@ proxy-providers:
 
   zongheng:
     type: http
-    url: "https://d3alkfktth1jb6.cloudfront.net/api/v1/client/subscribe?token=daffff0b396a1564085c71387a5cc4d6"
+    url: "  "
     interval: 86400
     health-check:
       enable: true
@@ -21,7 +21,7 @@ proxy-providers:
 
   sakuracat:
     type: http
-    url: "https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=4fad00e0089177495de6f1ab0be5bf8d"
+    url: "  "
     interval: 86400
     health-check:
       enable: true
@@ -30,7 +30,7 @@ proxy-providers:
 
   niubi:
     type: http
-    url: "http://8.138.135.231:8090/api/v1/client/subscribe?token=6e820bef249cd247176486f3b2965d07"
+    url: "  "
     interval: 86400
     health-check:
       enable: true
